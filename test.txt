@@ -1,6 +1,1 @@
 ai
-<<<<<<< HEAD
-lolo cc
-=======
-hello
->>>>>>> f0dbfc96ef903156f4448302e357fb0ccbeca64f
